@@ -1,4 +1,4 @@
-import 'whatwg-fetch'
+import 'whatwg-fetch';
 import { h, render } from 'preact';
 import Widget from './widget';
 import { defaultConfiguration } from './default-configuration';
