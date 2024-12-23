@@ -1,6 +1,6 @@
 import { h, render } from 'preact';
 import Chat from './chat';
-import * as store from 'store'
+import * as store from 'store';
 import { hri } from 'human-readable-ids';
 
 let conf = {};
